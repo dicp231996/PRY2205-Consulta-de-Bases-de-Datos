@@ -37,5 +37,5 @@ Probado en Oracle Database 19c con Oracle SQL Developer.
 
 ### Integrantes
 
-- dicp231996
-- _(pendiente: agregar compañero/a de la pareja)_
+- DANIEL IGNACIO CAMPOS PEREZ
+- JAVIERA PAZ SAAVEDRA PEREZ
